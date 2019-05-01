@@ -15,4 +15,6 @@ use tensorflow & pyqt5
 
 
 识别中
+
+
 ![image](https://github.com/smallzhu/plantREC/blob/master/Screenshot_2.png)
