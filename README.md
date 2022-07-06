@@ -1,4 +1,4 @@
-i creat GUI for Distinguish plant 利用摄像头采集的图像来识别，并显示在GUI窗口上   因为技术不成熟，还有很多BUG
+i creat GUI for Distinguish plant 利用摄像头采集的图像来识别，并显示在GUI窗口上
 
 use tensorflow & pyqt5
 
